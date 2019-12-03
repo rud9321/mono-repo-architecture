@@ -1,0 +1,262 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "todox": {
+      "root": "projects/todox/",
+      "sourceRoot": "projects/todox/src",
+      "projectType": "application",
+      "prefix": "todox",
+      "schematics": {},
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/todox",
+            "index": "projects/todox/src/index.html",
+            "main": "projects/todox/src/main.ts",
+            "polyfills": "projects/todox/src/polyfills.ts",
+            "tsConfig": "projects/todox/tsconfig.app.json",
+            "assets": [
+              "projects/todox/src/favicon.ico",
+              "projects/todox/src/assets"
+            ],
+            "styles": [
+              "projects/todox/src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/todox/src/environments/environment.ts",
+                  "with": "projects/todox/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "todox:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "todox:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "todox:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/todox/src/test.ts",
+            "polyfills": "projects/todox/src/polyfills.ts",
+            "tsConfig": "projects/todox/tsconfig.spec.json",
+            "karmaConfig": "projects/todox/karma.conf.js",
+            "styles": [
+              "projects/todox/src/styles.css"
+            ],
+            "scripts": [],
+            "assets": [
+              "projects/todox/src/favicon.ico",
+              "projects/todox/src/assets"
+            ]
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/todox/tsconfig.app.json",
+              "projects/todox/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    },
+    "todox-e2e": {
+      "root": "projects/todox-e2e/",
+      "projectType": "application",
+      "prefix": "",
+      "architect": {
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/todox-e2e/protractor.conf.js",
+            "devServerTarget": "todox:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "todox:serve:production"
+            }
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": "projects/todox-e2e/tsconfig.e2e.json",
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    },
+    "todoy": {
+      "root": "projects/todoy/",
+      "sourceRoot": "projects/todoy/src",
+      "projectType": "application",
+      "prefix": "todoy",
+      "schematics": {},
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/todoy",
+            "index": "projects/todoy/src/index.html",
+            "main": "projects/todoy/src/main.ts",
+            "polyfills": "projects/todoy/src/polyfills.ts",
+            "tsConfig": "projects/todoy/tsconfig.app.json",
+            "assets": [
+              "projects/todoy/src/favicon.ico",
+              "projects/todoy/src/assets"
+            ],
+            "styles": [
+              "projects/todoy/src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/todoy/src/environments/environment.ts",
+                  "with": "projects/todoy/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "todoy:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "todoy:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "todoy:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/todoy/src/test.ts",
+            "polyfills": "projects/todoy/src/polyfills.ts",
+            "tsConfig": "projects/todoy/tsconfig.spec.json",
+            "karmaConfig": "projects/todoy/karma.conf.js",
+            "styles": [
+              "projects/todoy/src/styles.css"
+            ],
+            "scripts": [],
+            "assets": [
+              "projects/todoy/src/favicon.ico",
+              "projects/todoy/src/assets"
+            ]
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/todoy/tsconfig.app.json",
+              "projects/todoy/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    },
+    "todoy-e2e": {
+      "root": "projects/todoy-e2e/",
+      "projectType": "application",
+      "prefix": "",
+      "architect": {
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/todoy-e2e/protractor.conf.js",
+            "devServerTarget": "todoy:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "todoy:serve:production"
+            }
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": "projects/todoy-e2e/tsconfig.e2e.json",
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "defaultProject": "todox"
+}
