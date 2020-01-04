@@ -7,20 +7,23 @@ ng new mono-repo-architecture --createApplication=false
 ng g application todox --prefix=todox --routing=true --style=css
 ng g application todoy --prefix=todoy --routing=true --style=css
 
+##### Run Applicaton
+ng serve todoy -o --port 7100 
+
 ##### Build in Production Envirement
-ng build todox --prod
-or
-ng build todox --prod --watch
+ng build todox --prod\
+or\
+ng build todox --prod --watch\
 
-##### Have a local http server to test 
-install http server
-npm install http-server -g
+##### Have a local http server to test
+install http server\
+npm install http-server -g\
 
-Run production app
-http-server -p 8000 -c-1 dist/todox
+Run production app\
+http-server -p 8000 -c-1 dist/todox\
 
-ng build todox --prod --watch
-and update production app
+ng build todox --prod --watch\
+and update production app\
 
 
 ## Development server
