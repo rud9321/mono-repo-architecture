@@ -1,0 +1,1020 @@
+Date: 2019-12-30T20:11:56.394Z - Hash: 6ce7df499edfc5ce6d49 - Time: 82ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+ 95% emitting CopyPlugin
+ERROR in test4/test4.component.ts(14,34): error TS1005: ';' expected.
+test4/test4.component.ts(18,1): error TS1128: Declaration or statement expected.
+
+
+Date: 2019-12-30T20:11:58.839Z - Hash: 6ce7df499edfc5ce6d49 - Time: 97ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:12:01.471Z - Hash: acd4512d01bde43ca75d - Time: 121ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 50.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:13:09.377Z - Hash: dd94ae5c6cad09a10a33 - Time: 152ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 50.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:13:29.515Z - Hash: 90aea118d6bd70f356d8 - Time: 120ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 50.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:13:57.280Z - Hash: de10a0d7e381a255413d - Time: 111ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 50.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:14:45.531Z - Hash: de10a0d7e381a255413d - Time: 174ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:14:50.356Z - Hash: de10a0d7e381a255413d - Time: 148ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:15:08.468Z - Hash: 2099c83abecb2f8eb713 - Time: 85ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 50.7 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:15:33.904Z - Hash: 324f88661000e2f5f48b - Time: 191ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 50.7 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+
+ERROR in test4/test4.component.ts(15,10): error TS1312: '=' can only be used in an object literal property inside a destructuring assignment.
+
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:16:17.037Z - Hash: d4294ca1b857e75fe633 - Time: 191ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 50.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:16:56.022Z - Hash: 05e86dd2bff27e0a7061 - Time: 132ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:17:04.585Z - Hash: d4fdebfd7d28497a01a7 - Time: 89ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:17:53.043Z - Hash: 2f7e412db6f31f57a579 - Time: 160ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.2 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:18:02.231Z - Hash: 03306cce45f083ba3709 - Time: 205ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.2 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:18:06.861Z - Hash: 2f7e412db6f31f57a579 - Time: 143ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.2 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:24:52.836Z - Hash: 04fc0089f056e5e7ee49 - Time: 193ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.2 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:25:23.930Z - Hash: 7970f94e9ca6786dda64 - Time: 147ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.3 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:26:09.209Z - Hash: fb512d02f0bee4479cd0 - Time: 116ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.3 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:26:17.462Z - Hash: 4b341d9b5559a431659d - Time: 100ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.3 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:26:54.764Z - Hash: 8565b490d3cac80028ae - Time: 119ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.3 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:27:14.479Z - Hash: 58e1ba3b9a2ea2bc3dd4 - Time: 178ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:27:26.056Z - Hash: be13792c4cb05866cb92 - Time: 155ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:27:35.617Z - Hash: 405c82f6851890116287 - Time: 122ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:28:15.105Z - Hash: 4afc2bcc60411fcc2759 - Time: 102ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:28:29.683Z - Hash: 407e9851a16f1efe53dc - Time: 108ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:28:56.041Z - Hash: c90cbd4ec8ac7cacfe34 - Time: 117ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:29:07.072Z - Hash: 36bf560aad4105c462ce - Time: 131ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:29:13.943Z - Hash: c90cbd4ec8ac7cacfe34 - Time: 88ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:30:29.983Z - Hash: b3dab7ec2712b2356218 - Time: 161ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:30:38.960Z - Hash: 35100cfed2a2161f59f2 - Time: 129ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:40:12.299Z - Hash: c4d6ed2687d9c66da346 - Time: 258ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:40:40.624Z - Hash: 1e1be9840984eb6325c1 - Time: 122ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:41:15.423Z - Hash: 64abce2798af3251f88f - Time: 224ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:41:47.646Z - Hash: 2d7a92b24213dbb407dd - Time: 117ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:42:18.610Z - Hash: 2625530c6c3b0318b1e0 - Time: 124ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:43:04.550Z - Hash: 93dc0f58d78a7dbaa9d3 - Time: 110ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:43:12.874Z - Hash: b91460f440c36449bbbe - Time: 142ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:44:17.626Z - Hash: 4151f04a90e750e44ef4 - Time: 150ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:44:20.881Z - Hash: 1e1be9840984eb6325c1 - Time: 74ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:44:45.761Z - Hash: 1f16eae6e84dfaa278a5 - Time: 138ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 51.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:46:33.430Z - Hash: e540165f1c21720268e4 - Time: 133ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.1 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:46:57.068Z - Hash: 32f82c3a295b595a681f - Time: 110ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.1 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:48:21.992Z - Hash: da0b310766fcbc995bfe - Time: 188ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:48:30.978Z - Hash: 259892e144593d6de680 - Time: 218ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:51:28.043Z - Hash: b334425b3181835a6d1a - Time: 140ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.2 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:55:01.615Z - Hash: 5ebfafeb4d4319517224 - Time: 190ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:55:39.539Z - Hash: 0992e5c0796978bb54d4 - Time: 165ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:56:05.478Z - Hash: 74bbca3c3ddb5aaec9d8 - Time: 101ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:56:54.969Z - Hash: 762d5c9c8cd5acf90774 - Time: 201ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:57:09.582Z - Hash: c6ff7952061aeeac6d84 - Time: 122ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.5 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:57:17.802Z - Hash: 968b09efc188c4a46ea2 - Time: 136ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:57:33.183Z - Hash: 95e34200ea7bd6ad6c57 - Time: 107ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:58:00.922Z - Hash: ee4451258b253b4b5c1f - Time: 172ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:58:51.354Z - Hash: d874c5ca113a95b20eed - Time: 203ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T20:59:28.170Z - Hash: e1dc4ccbafbdd8acd1ef - Time: 115ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.7 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T21:00:11.345Z - Hash: 9cf047432ec3d6be9e94 - Time: 156ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.7 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-30T21:00:47.085Z - Hash: 6de8bdb41dfcc01a7875 - Time: 115ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.7 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+^C
+                                                                                                                                   $(aws_prompt_info)
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+Session Contents Restored on 31-Dec-2019 at 3:24 PM
+Last login: Tue Dec 31 15:23:53 on console
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.html    app.module.ts         posts.ts              test2                 test4
+app.component.css     app.component.ts      data.service.ts       test1                 test3                 user.ts
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ clear
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.html    app.module.ts         posts.ts              test2                 test4
+app.component.css     app.component.ts      data.service.ts       test1                 test3                 user.ts
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ ng serve
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+ 11% building modules 12/12 modules 0 activeℹ ｢wdm｣: wait until bundle finished: /test4
+
+Date: 2019-12-31T10:24:38.789Z
+Hash: 6de8bdb41dfcc01a7875
+Time: 8832ms
+chunk {main} main.js, main.js.map (main) 52.7 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 253 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 17 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.93 MB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:06:04.691Z - Hash: 8ae5b92b4ed583c5eecc - Time: 4755ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:06:22.486Z - Hash: 210e1846cc1cdc722267 - Time: 192ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.6 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:06:51.906Z - Hash: 210e1846cc1cdc722267 - Time: 168ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:16:44.166Z - Hash: dfad5d5b75e1f5143b39 - Time: 324ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:16:47.629Z - Hash: dfad5d5b75e1f5143b39 - Time: 140ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:47:25.753Z - Hash: 8ec734c4ad3076ad2be0 - Time: 220ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:47:59.059Z - Hash: ab6ca85789badf6ae423 - Time: 200ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:48:10.503Z - Hash: 8e457f7a7ba53f5c04bb - Time: 158ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:48:19.652Z - Hash: 64c7a80d171403b5f9a1 - Time: 94ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:52:30.490Z - Hash: ea435a02a20c9dfff8fb - Time: 129ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:52:39.550Z - Hash: 64c7a80d171403b5f9a1 - Time: 91ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:52:56.998Z - Hash: 6e1c396f7f4b9d2d4335 - Time: 105ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:53:12.889Z - Hash: d2ba3386bc4a9bf4d380 - Time: 157ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T11:53:29.080Z - Hash: 6c3e1013123ff9c37b0c - Time: 150ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.8 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:37:36.196Z - Hash: a46f09bb4e849550acb8 - Time: 333ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.9 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:38:39.079Z - Hash: 9de8122905a2e087eba7 - Time: 147ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.9 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:40:45.703Z - Hash: 3e8d90d15ef8baf85265 - Time: 153ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.9 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:41:19.715Z - Hash: f30a65043f3cff0e8377 - Time: 119ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 52.9 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:41:49.261Z - Hash: 77be3f354d6929b34baa - Time: 99ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:42:12.559Z - Hash: 8928226a5386c228715a - Time: 137ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:42:51.173Z - Hash: d82dfa3c9d642fdeb11c - Time: 138ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:43:40.253Z - Hash: 8b95888029d456bb89c4 - Time: 131ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:45:02.697Z - Hash: e1c5b17c4d3f91bd12d7 - Time: 181ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T12:45:33.464Z - Hash: 652803f2b85170b0e2db - Time: 238ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.1 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T13:59:26.475Z - Hash: c0556cf6c035e6375226 - Time: 309ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.3 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T14:01:57.629Z - Hash: 672cbf7fd23cf334f477 - Time: 151ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.3 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T14:02:06.765Z - Hash: 288f65e25b8120a4d7ca - Time: 150ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.2 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T14:02:32.506Z - Hash: 0e7eaf34c70189a3236e - Time: 118ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.2 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T14:11:09.009Z - Hash: 0067d483d42f390a59a7 - Time: 125ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.2 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+^C
+                                                                                                                                   $(aws_prompt_info)
+                                                                                                                                   $(aws_prompt_info)
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+Session Contents Restored on 31-Dec-2019 at 11:30 PM
+Last login: Tue Dec 31 23:30:51 on console
+clear
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ clear
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ clear
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ ng s
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2019-12-31T18:04:34.134Z
+Hash: 0067d483d42f390a59a7
+Time: 9280ms
+chunk {main} main.js, main.js.map (main) 53.2 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 253 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 17 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.93 MB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:14:11.691Z - Hash: 3c21877f435ffab43ace - Time: 8467ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.3 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:17:00.586Z - Hash: 7bd2b94f84cede617723 - Time: 566ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:24:26.783Z - Hash: 052d7b5ad35ce1582ba1 - Time: 218ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:25:13.994Z - Hash: 2741f9744d82190e1939 - Time: 158ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:26:21.078Z - Hash: 7615d699560c95501371 - Time: 261ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:28:46.786Z - Hash: c86b4e8ad9070473ae7a - Time: 158ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:29:01.287Z - Hash: 598f1233456375ec2e63 - Time: 159ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:29:22.501Z - Hash: 79a6163697a5dae97f69 - Time: 130ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:29:34.292Z - Hash: 03ab938a689a0cc7576d - Time: 139ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2019-12-31T18:29:51.089Z - Hash: c248c4497f940f0e20f8 - Time: 178ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 53.4 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+^C^C
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.html    app.module.ts         posts.ts              test2                 test4
+app.component.css     app.component.ts      data.service.ts       test1                 test3                 user.ts
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ md AuthGuard
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ ls
+AuthGuard             app.component.html    data.service.ts       test2                 user.ts
+app-routing.module.ts app.component.ts      posts.ts              test3
+app.component.css     app.module.ts         test1                 test4
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ cd AuthGuard
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯ ls
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯ touch authls
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯ tree -L 3
+.
+└── authls
+
+0 directories, 1 file
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯ tree -L 2
+.
+└── authls
+
+0 directories, 1 file
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯ tree
+.
+└── authls
+
+0 directories, 1 file
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯ touch auth-Guard.ts
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯ touch AuthGuard.ts
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯ ng s
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+Date: 2020-01-01T08:41:25.267Z
+Hash: 227560630f6354eb7b0a
+Time: 7915ms
+chunk {main} main.js, main.js.map (main) 56 kB [initial] [rendered]
+chunk {polyfills} polyfills.js, polyfills.js.map (polyfills) 253 kB [initial] [rendered]
+chunk {runtime} runtime.js, runtime.js.map (runtime) 6.08 kB [entry] [rendered]
+chunk {styles} styles.js, styles.js.map (styles) 17 kB [initial] [rendered]
+chunk {vendor} vendor.js, vendor.js.map (vendor) 3.93 MB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:43:31.955Z - Hash: 5d70b16c28594e5661de - Time: 2494ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 56 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:44:49.150Z - Hash: d0d67145acad0bb8b1ca - Time: 216ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 56 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:45:05.467Z - Hash: cedba7b4b5e43740d1fe - Time: 172ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 56 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:45:42.361Z - Hash: cedba7b4b5e43740d1fe - Time: 145ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:45:52.953Z - Hash: cedba7b4b5e43740d1fe - Time: 215ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:47:00.845Z - Hash: dd8ab049ff900787114b - Time: 1386ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 58 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+
+ERROR in ../app-routing.module.ts(7,27): error TS2307: Cannot find module './AuthGuard/AuthGuard'.
+
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:47:59.673Z - Hash: 3e9bb435ea083e986dcf - Time: 205ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 58 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+
+ERROR in ../app-routing.module.ts(7,27): error TS2307: Cannot find module './AuthGuard/AuthGuard'.
+
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:48:03.725Z - Hash: 3e9bb435ea083e986dcf - Time: 121ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+
+ERROR in ../app-routing.module.ts(7,27): error TS2307: Cannot find module './AuthGuard/AuthGuard'.
+
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:48:13.588Z - Hash: 3e9bb435ea083e986dcf - Time: 148ms
+5 unchanged chunks
+ℹ ｢wdm｣: Compiled successfully.
+
+ERROR in ../app-routing.module.ts(7,27): error TS2307: Cannot find module './AuthGuard/AuthGuard'.
+
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:48:17.853Z - Hash: adc63d100da1b849a344 - Time: 191ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 56 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:48:43.570Z - Hash: 9bf82f3241c8b52f915a - Time: 157ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 55.9 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:49:03.636Z - Hash: adc63d100da1b849a344 - Time: 202ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 56 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+ℹ ｢wdm｣: Compiling...
+
+Date: 2020-01-01T08:49:38.755Z - Hash: a1c2db9fa626a8f888f8 - Time: 161ms
+4 unchanged chunks
+chunk {main} main.js, main.js.map (main) 56 kB [initial] [rendered]
+ℹ ｢wdm｣: Compiled successfully.
+^C
+                                                                                                                                   $(aws_prompt_info)
+                                                                                                                                   $(aws_prompt_info)
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯
+ π mono-repo-architecture/projects/todox/src/app/AuthGuard master ✗ ❯
+Session Contents Restored on 01-Jan-2020 at 4:33 PM
+Last login: Wed Jan  1 16:33:41 on console
+ π mono-repo-architecture/projects/todox/src/app/auth master ✗ ❯ clear
+ π mono-repo-architecture/projects/todox/src/app/auth master ✗ ❯ ls
+AuthGuard.ts
+ π mono-repo-architecture/projects/todox/src/app/auth master ✗ ❯ cd ..
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+Session Contents Restored on 02-Jan-2020 at 6:37 PM
+Last login: Thu Jan  2 18:37:36 on console
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+Session Contents Restored on 03-Jan-2020 at 5:52 PM
+Last login: Fri Jan  3 17:52:13 on ttys004
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+Session Contents Restored on 04-Jan-2020 at 12:47 PM
+Last login: Sat Jan  4 12:47:55 on ttys000
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯
+Session Contents Restored on 04-Jan-2020 at 9:30 PM
+Last login: Sat Jan  4 21:30:31 on ttys008
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ clear
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.ts      data.service.ts       test2                 user.ts
+app.component.css     app.module.ts         posts.ts              test3
+app.component.html    auth                  test1                 test4
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   app-routing.module.ts
+	modified:   app.component.css
+	modified:   app.component.html
+	deleted:    app.component.spec.ts
+	modified:   app.module.ts
+	modified:   ../index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../../../../dist/
+	auth/
+	data.service.ts
+	posts.ts
+	test1/
+	test2/
+	test3/
+	test4/
+	user.ts
+
+no changes added to commit (use "git add" and/or "git commit -a")
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ git add .
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ git commit -m "Commit some practices on forms"
+[master 68a7d59] Commit some practices on forms
+ 26 files changed, 561 insertions(+), 45 deletions(-)
+ delete mode 100644 projects/todox/src/app/app.component.spec.ts
+ create mode 100644 projects/todox/src/app/auth/AuthGuard.ts
+ create mode 100644 projects/todox/src/app/data.service.ts
+ create mode 100644 projects/todox/src/app/posts.ts
+ create mode 100644 projects/todox/src/app/test1/test1-child1/test1-child1.component.css
+ create mode 100644 projects/todox/src/app/test1/test1-child1/test1-child1.component.html
+ create mode 100644 projects/todox/src/app/test1/test1-child1/test1-child1.component.ts
+ create mode 100644 projects/todox/src/app/test1/test1.component.css
+ create mode 100644 projects/todox/src/app/test1/test1.component.html
+ create mode 100644 projects/todox/src/app/test1/test1.component.ts
+ create mode 100644 projects/todox/src/app/test2/test2-child1/test2-child1.component.ts
+ create mode 100644 projects/todox/src/app/test2/test2-child2/test2-child2.component.ts
+ create mode 100644 projects/todox/src/app/test2/test2.component.css
+ create mode 100644 projects/todox/src/app/test2/test2.component.html
+ create mode 100644 projects/todox/src/app/test2/test2.component.ts
+ create mode 100644 projects/todox/src/app/test3/test3.component.css
+ create mode 100644 projects/todox/src/app/test3/test3.component.html
+ create mode 100644 projects/todox/src/app/test3/test3.component.ts
+ create mode 100644 projects/todox/src/app/test4/test4.component.css
+ create mode 100644 projects/todox/src/app/test4/test4.component.html
+ create mode 100644 projects/todox/src/app/test4/test4.component.ts
+ create mode 100644 projects/todox/src/app/user.ts
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ git pull origin master
+From github.com:rud9321/mono-repo-architecture
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ git push origin master
+Counting objects: 36, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (35/35), done.
+Writing objects: 100% (36/36), 8.89 KiB | 1.78 MiB/s, done.
+Total 36 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas: 100% (5/5), completed with 3 local objects.
+remote:
+remote: GitHub found 1 vulnerability on rud9321/mono-repo-architecture's default branch (1 moderate). To find out more, visit:
+remote:      https://github.com/rud9321/mono-repo-architecture/network/alerts
+remote:
+To github.com:rud9321/mono-repo-architecture.git
+   c7b8148..68a7d59  master -> master
+ π mono-repo-architecture/projects/todox/src/app master ✗ ❯ cd ..
+ π mono-repo-architecture/projects/todox/src master ✗ ❯ cd ..
+ π mono-repo-architecture/projects/todox master ✗ ❯ cd ..
+ π mono-repo-architecture/projects master ✗ ❯ ls
+todox     todox-e2e todoy     todoy-e2e
+ π mono-repo-architecture/projects master ✗ ❯ cd todoy
+ π mono-repo-architecture/projects/todoy master ✗ ❯ cd src
+ π mono-repo-architecture/projects/todoy/src master ✗ ❯ cd app
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.css     app.component.html    app.component.spec.ts app.component.ts      app.module.ts
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.css     app.component.html    app.component.spec.ts app.component.ts      app.module.ts
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ md Shared
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+Shared                app.component.css     app.component.spec.ts app.module.ts
+app-routing.module.ts app.component.html    app.component.ts
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls -a
+.                     Shared                app.component.css     app.component.spec.ts app.module.ts
+..                    app-routing.module.ts app.component.html    app.component.ts
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+Shared                app.component.css     app.component.spec.ts app.module.ts
+app-routing.module.ts app.component.html    app.component.ts
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ cd Shared
+ π mono-repo-architecture/projects/todoy/src/app/Shared master ✗ ❯ ls
+ π mono-repo-architecture/projects/todoy/src/app/Shared master ✗ ❯ ng g module
+? What name would you like to use for the module? shared
+CREATE projects/todoy/src/app/Shared/shared/shared.module.ts (190 bytes)
+ π mono-repo-architecture/projects/todoy/src/app/Shared master ✗ ❯ ng g c
+? What name would you like to use for the component? header
+CREATE projects/todoy/src/app/Shared/header/header.component.css (0 bytes)
+CREATE projects/todoy/src/app/Shared/header/header.component.html (25 bytes)
+CREATE projects/todoy/src/app/Shared/header/header.component.spec.ts (628 bytes)
+CREATE projects/todoy/src/app/Shared/header/header.component.ts (271 bytes)
+UPDATE projects/todoy/src/app/app.module.ts (482 bytes)
+ π mono-repo-architecture/projects/todoy/src/app/Shared master ✗ ❯ ng g c
+? What name would you like to use for the component? footer
+CREATE projects/todoy/src/app/Shared/footer/footer.component.css (0 bytes)
+CREATE projects/todoy/src/app/Shared/footer/footer.component.html (25 bytes)
+CREATE projects/todoy/src/app/Shared/footer/footer.component.spec.ts (628 bytes)
+CREATE projects/todoy/src/app/Shared/footer/footer.component.ts (271 bytes)
+UPDATE projects/todoy/src/app/app.module.ts (571 bytes)
+ π mono-repo-architecture/projects/todoy/src/app/Shared master ✗ ❯ ng g module
+path.js:1077
+        path = process.cwd();
+                       ^
+
+Error: EPERM: operation not permitted, uv_cwd
+    at Object.resolve (path.js:1077:24)
+    at Function.Module._resolveLookupPaths (internal/modules/cjs/loader.js:534:17)
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:629:20)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@angular/cli/bin/ng:25:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+ π mono-repo-architecture/projects/todoy/src/app/Shared ❯ cd ..
+ π mono-repo-architecture/projects/todoy/src/app ❯ ls
+ls: .: Operation not permitted
+ π mono-repo-architecture/projects/todoy/src/app ❯ ls -a
+ls: .: Operation not permitted
+ π mono-repo-architecture/projects/todoy/src/app ❯ cd ..
+ π ~ ❯ ls
+Applications Documents    Library      Music        Postman      Public       venv
+Desktop      Downloads    Movies       Pictures     Projects     nltk_data
+ π ~ ❯ rud
+ π ~/Documents/code ❯ cd core
+ π ~/Documents/code/core ❯ cd ..
+ π ~/Documents/code ❯ cd angular
+ π ~/Documents/code/angular ❯ ls
+01122018               03112018               AngFirst               AngGo                  mono-repo-architecture
+ π ~/Documents/code/angular ❯ cd mono-repo-architecture
+ π mono-repo-architecture master ✗ ❯ ls
+LICENSE           angular.json      node_modules      package.json      tsconfig.json
+README.md         dist              package-lock.json projects          tslint.json
+ π mono-repo-architecture master ✗ ❯ cd projects
+ π mono-repo-architecture/projects master ✗ ❯ ls
+todox     todox-e2e todoy     todoy-e2e
+ π mono-repo-architecture/projects master ✗ ❯ cd todoy
+ π mono-repo-architecture/projects/todoy master ✗ ❯ ls
+browserslist       karma.conf.js      src                tsconfig.app.json  tsconfig.spec.json tslint.json
+ π mono-repo-architecture/projects/todoy master ✗ ❯ cd src
+ π mono-repo-architecture/projects/todoy/src master ✗ ❯ ls
+app          assets       environments favicon.ico  index.html   main.ts      polyfills.ts styles.css   test.ts
+ π mono-repo-architecture/projects/todoy/src master ✗ ❯ cd app
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.css     app.component.html    app.component.spec.ts app.component.ts      app.module.ts
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module
+? What name would you like to use for the module? shared
+CREATE projects/todoy/src/app/shared/shared.module.ts (190 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.html    app.component.ts      shared
+app.component.css     app.component.spec.ts app.module.ts
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g component shared/header
+CREATE projects/todoy/src/app/shared/header/header.component.css (0 bytes)
+CREATE projects/todoy/src/app/shared/header/header.component.html (25 bytes)
+CREATE projects/todoy/src/app/shared/header/header.component.spec.ts (628 bytes)
+CREATE projects/todoy/src/app/shared/header/header.component.ts (271 bytes)
+UPDATE projects/todoy/src/app/shared/shared.module.ts (266 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g c shared/footer --spec=false
+CREATE projects/todoy/src/app/shared/footer/footer.component.css (0 bytes)
+CREATE projects/todoy/src/app/shared/footer/footer.component.html (25 bytes)
+CREATE projects/todoy/src/app/shared/footer/footer.component.ts (271 bytes)
+UPDATE projects/todoy/src/app/shared/shared.module.ts (344 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class shared/index.ts
+CREATE projects/todoy/src/app/shared/index.ts.ts (26 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class shared/index
+CREATE projects/todoy/src/app/shared/index.ts (23 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.html    app.component.ts      shared
+app.component.css     app.component.spec.ts app.module.ts
+ π mono-repo-architecture/projects/todoy/src/app master ❯ ng g module home
+CREATE projects/todoy/src/app/home/home.module.ts (188 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g c home/home
+CREATE projects/todoy/src/app/home/home/home.component.css (0 bytes)
+CREATE projects/todoy/src/app/home/home/home.component.html (23 bytes)
+CREATE projects/todoy/src/app/home/home/home.component.spec.ts (614 bytes)
+CREATE projects/todoy/src/app/home/home/home.component.ts (263 bytes)
+UPDATE projects/todoy/src/app/home/home.module.ts (256 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g c home/home.ts
+CREATE projects/todoy/src/app/home/home.ts/home.ts.component.css (0 bytes)
+CREATE projects/todoy/src/app/home/home.ts/home.ts.component.html (26 bytes)
+CREATE projects/todoy/src/app/home/home.ts/home.ts.component.spec.ts (635 bytes)
+CREATE projects/todoy/src/app/home/home.ts/home.ts.component.ts (275 bytes)
+UPDATE projects/todoy/src/app/home/home.module.ts (326 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g c home/
+CREATE projects/todoy/src/app/home/home.component.css (0 bytes)
+CREATE projects/todoy/src/app/home/home.component.html (23 bytes)
+CREATE projects/todoy/src/app/home/home.component.spec.ts (614 bytes)
+CREATE projects/todoy/src/app/home/home.component.ts (263 bytes)
+UPDATE projects/todoy/src/app/home/home.module.ts (251 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module route --home
+CREATE projects/todoy/src/app/route/route.module.ts (189 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module home/
+ERROR! projects/todoy/src/app/home/home.module.ts already exists.
+The Schematic workflow failed. See above.
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module home/home-routing --flat
+CREATE projects/todoy/src/app/home/home-routing.module.ts (195 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.html    app.component.ts      home
+app.component.css     app.component.spec.ts app.module.ts         shared
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class home/
+CREATE projects/todoy/src/app/home.ts (22 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class home/index.ts --flat
+CREATE projects/todoy/src/app/home/index.ts.ts (26 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class home/index --flat
+CREATE projects/todoy/src/app/home/index.ts (23 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+app-routing.module.ts app.component.html    app.component.ts      home
+app.component.css     app.component.spec.ts app.module.ts         shared
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g s home/auth-resolver --flat
+CREATE projects/todoy/src/app/home/auth-resolver.service.spec.ts (364 bytes)
+CREATE projects/todoy/src/app/home/auth-resolver.service.ts (141 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯
