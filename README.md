@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ##### Create Structure
 ng new mono-repo-architecture --createApplication=false
 ##### Create Applications
-ng g application todox --prefix=todox --routing=true --style=css
+ng g application todox --prefix=todox --routing=true --style=css\
 ng g application todoy --prefix=todoy --routing=true --style=css
 
 ##### Run Applicaton
@@ -13,17 +13,17 @@ ng serve todoy -o --port 7100
 ##### Build in Production Envirement
 ng build todox --prod\
 or\
-ng build todox --prod --watch\
+ng build todox --prod --watch
 
 ##### Have a local http server to test
 install http server\
-npm install http-server -g\
+npm install http-server -g
 
 Run production app\
-http-server -p 8000 -c-1 dist/todox\
+http-server -p 8000 -c-1 dist/todox
 
 ng build todox --prod --watch\
-and update production app\
+and update production app
 
 
 ## Development server
