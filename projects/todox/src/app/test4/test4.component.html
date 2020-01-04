@@ -1,0 +1,50 @@
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+      <h2>Reactive Form</h2>
+      {{registerForm.value | json}}
+    </div>
+    
+  </div>
+  <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
+    <form [formGroup]="registerForm" (ngSubmit)="submitUserDetails()">
+      <div class="form-group">
+        <label>UserName</label>
+        <input type="text" class="form-control" [class.is-invalid]="registerForm.get('username').invalid && username.touched" formControlName="username" />
+        <small class="text-danger" *ngIf="username.invalid && username.touched">UserName is requred!</small>
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" class="form-control" formControlName="password" />
+      </div>
+      <div class="form-group">
+        <label>Confirm Password</label>
+        <input type="password" class="form-control" formControlName="confirmPassword" />
+      </div>
+
+      <div formGroupName="address">
+
+        <div class="form-group">
+          <label>City</label>
+          <input type="text" class="form-control" formControlName="city" />
+        </div>
+        <div class="form-group">
+          <label>
+            state
+          </label>
+          <input type="text" class="form-control" formControlName="state" />
+        </div>
+        <div class="form-group">
+          <label>Zip Code</label>
+          <input type="text" class="form-control" formControlName="zipCode" />
+        </div>
+
+      </div>
+
+      <input type="submit" class="btn btn-primary pull pull-right mr-1" value="Submit"><hr>
+      <button type="button" class="btn btn-primary btn-sm mr-1" (click)="loadApiData()">Load Data</button>
+      <input type="reset" class="btn btn-secondary btn-sm pull-right" value="Reset"/>
+    </form>
+    
+  </div>
+</div>

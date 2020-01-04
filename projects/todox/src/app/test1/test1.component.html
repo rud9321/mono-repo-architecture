@@ -1,0 +1,39 @@
+<div class="container">
+  <div class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">                        
+        Todo
+      </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <p [style.color]="'red'">
+        test1 works!
+      </p>
+      <input type="text" [(ngModel)]="name"/><h2>{{name}}</h2>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <input type="text>" #mytext/>
+      <button (click)="clickSomething(mytext)">Click me</button>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <ul>
+        <li *ngFor="let color of arrayofColors; index as i" [style.color]="color">{{i+1}}: {{color}}</li>
+      </ul>
+    </div>
+    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+      <todox-test1-child1 [test_parent_data]="testdata"></todox-test1-child1>
+    </div>
+
+  </div>
+  </div>
+  
+
+<!-- <h4>value comes from parent: {{parentkeyValue}}</h4> -->
+
+<div>
+  <!-- <div *ngFor="let obj of listofPosts">
+    <h3>{{obj.id}}: {{obj.title}}</h3>
+    <h4>{{obj.body}}</h4>
+  </div> -->
+</div>
+

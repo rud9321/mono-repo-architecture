@@ -1,0 +1,23 @@
+<p>
+  test2 works!
+</p>
+<!-- <button type="button" class="btn btn-primary btn-sm">Child1</button>
+<button type="button" class="btn btn-secondary btn-sm">Child2</button> -->
+<todox-test2-child2 (listDataEvent)="test2_child2_data=$event"></todox-test2-child2>
+
+<div>
+  <div class="card-columns">
+    <div class="card p-3" *ngFor="let post of test2_child2_data">
+      <blockquote class="blockquote mb-0">
+        <p>{{post.title}}</p>
+        <footer class="blockquote-footer">
+          <small class="text-muted">
+            {{post.body}} <cite title="Source Title">{{post.id}}</cite>
+          </small>
+        </footer>
+      </blockquote>
+    </div>
+  </div>
+</div>
+<div todox-test2-child1>
+</div> 
