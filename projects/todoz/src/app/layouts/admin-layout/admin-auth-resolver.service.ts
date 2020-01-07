@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class AdminAuthResolverService implements Resolve<boolean> {
   resolve(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): boolean | Observable<boolean> | Promise<boolean> {
-    return true;
+    return false;
   }
 
   constructor() { }

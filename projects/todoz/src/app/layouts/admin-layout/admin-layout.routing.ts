@@ -6,16 +6,19 @@ import { MapsComponent } from '../../pages/maps/maps.component';
 import { UserProfileComponent } from '../../pages/user-profile/user-profile.component';
 import { TablesComponent } from '../../pages/tables/tables.component';
 import { AdminAuthResolverService } from 'projects/todoy/src/app/admin/admin-auth-resolver.service';
+import { AuthGuard } from '../../auth/auth.guard';
+
 
 export const AdminLayoutRoutes: Routes = [
-    { path: 'admin',      component: DashboardComponent },
+    { path: 'admin',      component: DashboardComponent, canActivate: [AuthGuard] },
     { path: 'user-profile',   component: UserProfileComponent
-    // , resolve: {
-    //    admin: AdminAuthResolverService
-    // }
+    , resolve: {
+       admin: AdminAuthResolverService
+    },
+    canActivate: [AuthGuard]
 },
-    { path: 'tables',         component: TablesComponent },
-    { path: 'icons',          component: IconsComponent },
-    { path: 'maps',           component: MapsComponent }
+    { path: 'tables',         component: TablesComponent, canActivate: [AuthGuard] },
+    { path: 'icons',          component: IconsComponent, canActivate: [AuthGuard] },
+    { path: 'maps',           component: MapsComponent, canActivate: [AuthGuard] }
 ];
 

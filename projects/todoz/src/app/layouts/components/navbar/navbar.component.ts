@@ -33,4 +33,9 @@ export class NavbarComponent implements OnInit {
     return 'Dashboard';
   }
 
+  logout() {
+    sessionStorage.removeItem('x-auth');
+    this.router.navigate( ['/login'] );
+  }
+
 }

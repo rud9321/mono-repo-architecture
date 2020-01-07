@@ -13,6 +13,7 @@ import { UserProfileComponent } from '../../pages/user-profile/user-profile.comp
 import { TablesComponent } from '../../pages/tables/tables.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { ComponentsModule } from '../components/components.module';
+import { AuthGuard } from '../../auth/auth.guard';
 // import { ToastrModule } from 'ngx-toastr';
 
 @NgModule({
@@ -31,7 +32,8 @@ import { ComponentsModule } from '../components/components.module';
     TablesComponent,
     IconsComponent,
     MapsComponent
-  ]
+  ],
+  providers:[AuthGuard]
 })
 
 export class AdminLayoutModule {}
