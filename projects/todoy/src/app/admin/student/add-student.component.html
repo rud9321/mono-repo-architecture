@@ -1,0 +1,21 @@
+<p>
+  add-student works!
+</p>
+<button class="small btn btn-secondary" (click)="loadFormData()">load data</button>
+<div class="col-md-8">
+  <form [formGroup]="addStudentForm">
+    <div class="form-group">
+      <label>Name</label>
+      <input type="text" name="name" formControlName="name" class="form-control">
+    </div>
+    <div class="form-group">
+      <label>Age</label>
+      <input type="number" name="age" formControlName="age" class="form-control">
+    </div>
+    <div class="form-group">
+      <label>Address</label>
+      <textarea class="form-control" formControlName="address" name="address"></textarea>
+    </div>
+    <input type="submit" class="btn btn-primary" value="Submit">
+  </form>
+</div>

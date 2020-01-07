@@ -1018,3 +1018,66 @@ app.component.css     app.component.spec.ts app.module.ts         shared
 CREATE projects/todoy/src/app/home/auth-resolver.service.spec.ts (364 bytes)
 CREATE projects/todoy/src/app/home/auth-resolver.service.ts (141 bytes)
  π mono-repo-architecture/projects/todoy/src/app master ✗ ❯
+
+
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module admin --routing --flat
+CREATE projects/todoy/src/app/admin-routing.module.ts (248 bytes)
+CREATE projects/todoy/src/app/admin.module.ts (275 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module admin/admin --routing --flat
+CREATE projects/todoy/src/app/admin/admin-routing.module.ts (248 bytes)
+CREATE projects/todoy/src/app/admin/admin.module.ts (275 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g c admin/student
+CREATE projects/todoy/src/app/admin/student/student.component.css (0 bytes)
+CREATE projects/todoy/src/app/admin/student/student.component.html (26 bytes)
+CREATE projects/todoy/src/app/admin/student/student.component.spec.ts (635 bytes)
+CREATE projects/todoy/src/app/admin/student/student.component.ts (275 bytes)
+UPDATE projects/todoy/src/app/admin/admin.module.ts (355 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class admin/index --flat
+CREATE projects/todoy/src/app/admin/index.ts (23 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g s admin/admin-auth-resolver --flate
+CREATE projects/todoy/src/app/admin/admin-auth-resolver.service.spec.ts (390 bytes)
+CREATE projects/todoy/src/app/admin/admin-auth-resolver.service.ts (146 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module admin/student --routing --flat
+CREATE projects/todoy/src/app/admin/student-routing.module.ts (250 bytes)
+CREATE projects/todoy/src/app/admin/student.module.ts (283 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module admin/student/student --routing --flat
+CREATE projects/todoy/src/app/admin/student/student-routing.module.ts (250 bytes)
+CREATE projects/todoy/src/app/admin/student/student.module.ts (283 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g c admin/student/add-student --flat
+CREATE projects/todoy/src/app/admin/student/add-student.component.css (0 bytes)
+CREATE projects/todoy/src/app/admin/student/add-student.component.html (30 bytes)
+CREATE projects/todoy/src/app/admin/student/add-student.component.spec.ts (657 bytes)
+CREATE projects/todoy/src/app/admin/student/add-student.component.ts (290 bytes)
+UPDATE projects/todoy/src/app/admin/student/student.module.ts (373 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+admin                 app.component.css     app.component.spec.ts app.module.ts         shared
+app-routing.module.ts app.component.html    app.component.ts      home
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ md core
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g module core/core --flat
+CREATE projects/todoy/src/app/core/core.module.ts (188 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g s core/api --flat
+CREATE projects/todoy/src/app/core/api.service.spec.ts (318 bytes)
+CREATE projects/todoy/src/app/core/api.service.ts (132 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g s core/api
+CREATE projects/todoy/src/app/core/api.service.spec.ts (318 bytes)
+CREATE projects/todoy/src/app/core/api.service.ts (132 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g s core/services/api
+CREATE projects/todoy/src/app/core/services/api.service.spec.ts (318 bytes)
+CREATE projects/todoy/src/app/core/services/api.service.ts (132 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class core/index --flat
+CREATE projects/todoy/src/app/core/index.ts (23 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class core/models/student model --flat
+CREATE projects/todoy/src/app/core/models/student.ts (25 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class core/models/index --flat
+CREATE projects/todoy/src/app/core/models/index.ts (23 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class core/services/index --flate
+CREATE projects/todoy/src/app/core/services/index.ts (23 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g s core/interceptors/token-inceptor --flat
+CREATE projects/todoy/src/app/core/interceptors/token-inceptor.service.spec.ts (369 bytes)
+CREATE projects/todoy/src/app/core/interceptors/token-inceptor.service.ts (142 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ng g class core/interceptors/index --flat
+CREATE projects/todoy/src/app/core/interceptors/index.ts (23 bytes)
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯ ls
+admin                 app.component.css     app.component.spec.ts app.module.ts         home
+app-routing.module.ts app.component.html    app.component.ts      core                  shared
+ π mono-repo-architecture/projects/todoy/src/app master ✗ ❯

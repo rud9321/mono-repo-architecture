@@ -256,6 +256,138 @@
           }
         }
       }
+    },
+    "todoz": {
+      "root": "projects/todoz/",
+      "sourceRoot": "projects/todoz/src",
+      "projectType": "application",
+      "prefix": "todoz",
+      "schematics": {
+        "@schematics/angular:component": {
+          "styleext": "scss"
+        }
+      },
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/todoz",
+            "index": "projects/todoz/src/index.html",
+            "main": "projects/todoz/src/main.ts",
+            "polyfills": "projects/todoz/src/polyfills.ts",
+            "tsConfig": "projects/todoz/tsconfig.app.json",
+            "assets": [
+              "projects/todoz/src/favicon.ico",
+              "projects/todoz/src/assets"
+            ],
+            "styles": [
+              "projects/todoz/src/styles.scss",
+              "projects/todoz/src/assets/scss/argon.scss"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/todoz/src/environments/environment.ts",
+                  "with": "projects/todoz/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "aot": true,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "todoz:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "todoz:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "todoz:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/todoz/src/test.ts",
+            "polyfills": "projects/todoz/src/polyfills.ts",
+            "tsConfig": "projects/todoz/tsconfig.spec.json",
+            "karmaConfig": "projects/todoz/karma.conf.js",
+            "styles": [
+              "projects/todoz/src/styles.scss"
+            ],
+            "scripts": [],
+            "assets": [
+              "projects/todoz/src/favicon.ico",
+              "projects/todoz/src/assets"
+            ]
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/todoz/tsconfig.app.json",
+              "projects/todoz/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
+    },
+    "todoz-e2e": {
+      "root": "projects/todoz-e2e/",
+      "projectType": "application",
+      "prefix": "",
+      "architect": {
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/todoz-e2e/protractor.conf.js",
+            "devServerTarget": "todoz:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "todoz:serve:production"
+            }
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": "projects/todoz-e2e/tsconfig.e2e.json",
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        }
+      }
     }
   },
   "defaultProject": "todox"
