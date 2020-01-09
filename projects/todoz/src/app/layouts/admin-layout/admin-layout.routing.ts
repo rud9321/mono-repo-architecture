@@ -10,14 +10,21 @@ import { AuthGuard } from '../../auth/auth.guard';
 
 
 export const AdminLayoutRoutes: Routes = [
-    { path: 'admin',      component: DashboardComponent, canActivate: [AuthGuard] },
-    { path: 'user-profile',   component: UserProfileComponent
-    , resolve: {
-       admin: AdminAuthResolverService
-    },
-    canActivate: [AuthGuard]
+//     { path: '',      component: DashboardComponent, canActivate: [AuthGuard] },
+//     { path: 'user-profile',   component: UserProfileComponent
+//     , resolve: {
+//        admin: AdminAuthResolverService
+//     },
+//     canActivate: [AuthGuard]
+// },
+{
+    path: '', component: DashboardComponent,
+    children: [
+        {
+             path: 'tables', component: TablesComponent
+        }
+     ]
 },
-    { path: 'tables',         component: TablesComponent, canActivate: [AuthGuard] },
     { path: 'icons',          component: IconsComponent, canActivate: [AuthGuard] },
     { path: 'maps',           component: MapsComponent, canActivate: [AuthGuard] }
 ];

@@ -12,7 +12,7 @@ const routes: Routes = [
     redirectTo: 'admin',
     pathMatch: 'full',
   }, {
-    path: '',
+    path: 'admin',
     component: AdminLayoutComponent,
     children: [
       {
