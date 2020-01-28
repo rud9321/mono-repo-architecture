@@ -5,11 +5,17 @@ import { AddProductComponent } from '.';
 
 const routes: Routes = [
   {
-    path: '', component: ProductsComponent
-  },
-  {
-    path: 'add-product', component: AddProductComponent
+    path: '', component: ProductsComponent,
+    children : [
+      {
+        path: 'add-product', component: AddProductComponent
+      }
+    ]
   }
+  // ,
+  // {
+  //   path: 'add-product', component: AddProductComponent
+  // }
 ];
 
 @NgModule({

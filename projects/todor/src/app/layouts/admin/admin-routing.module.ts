@@ -5,7 +5,7 @@ import { IndexComponent, ProfileComponent, SettingsComponent, Dudo1Component, Du
 
 const routes: Routes = [
   {
-    path: '', component: AdminComponent, children: [
+      path: '', component: AdminComponent, children: [
       {
         path: 'home', component: IndexComponent, children: [
           {
@@ -23,7 +23,8 @@ const routes: Routes = [
         path: 'settings', component: SettingsComponent
       },
       {
-        path: 'products', loadChildren: () => import('./products/products.module')
+        path: 'products',
+        loadChildren: () => import('./products/products.module')
         .then(_ => _.ProductsModule)
       }
     ]
